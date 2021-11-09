@@ -1,2 +1,2 @@
-# Minig-Ames
-A bot made by me for IGP jam
+# Amit
+A new project 
